@@ -1,0 +1,13 @@
+a {
+  background-color: gray;
+  padding: 10px;
+}
+
+a:hover{
+  background-color: cyan;
+  cursor: pointer;
+}
+
+div{
+  margin-bottom: 20px;
+}
